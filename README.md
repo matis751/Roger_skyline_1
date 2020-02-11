@@ -1,4 +1,5 @@
 # Roger_skyline_1
+The purpose of this project is to proceed with the installation of a Virtual Machine, to discover the system and network bases as well as the many services used on a server machine.
 
 #1 : Mettre a jour les paquets
 sudo apt-get update
